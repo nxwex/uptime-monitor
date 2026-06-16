@@ -1,0 +1,7 @@
+*.exe
+*.out
+/bin/
+.idea/
+.vscode/
+*.tmp
+*.log
